@@ -19,10 +19,8 @@
   "license": "MIT",
   "dependencies": {
     "include-all": "~0.1.2",
-    "lodash": "~2.4.1"
-  },
-  "devDependencies": {
-    "mocha": "~1.17.1"
+    "lodash": "~2.4.1",
+    "mocha": "^2.1.0"
   },
   "testDependencies": {
     "bower": "~0.10.0",
